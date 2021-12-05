@@ -1,2 +1,7 @@
-# StereoVision
-Stereo Vision을 이용한 Depth Estimation
+# objectron
+
+~~~
+git clone https://github.com/DETONGNE/DETONGNE-vision
+pip install opencv-python
+pip install mediapipe
+~~~
